@@ -1,6 +1,0 @@
-C:\Users\Nemanja\documents\visual studio 2015\Projects\CS322-DZ-Console\CS322-DZ-Console\bin\Debug\CS322-DZ-Console.exe.config
-C:\Users\Nemanja\documents\visual studio 2015\Projects\CS322-DZ-Console\CS322-DZ-Console\bin\Debug\CS322-DZ-Console.exe
-C:\Users\Nemanja\documents\visual studio 2015\Projects\CS322-DZ-Console\CS322-DZ-Console\bin\Debug\CS322-DZ-Console.pdb
-C:\Users\Nemanja\documents\visual studio 2015\Projects\CS322-DZ-Console\CS322-DZ-Console\obj\Debug\CS322-DZ-Console.csprojResolveAssemblyReference.cache
-C:\Users\Nemanja\documents\visual studio 2015\Projects\CS322-DZ-Console\CS322-DZ-Console\obj\Debug\CS322-DZ-Console.exe
-C:\Users\Nemanja\documents\visual studio 2015\Projects\CS322-DZ-Console\CS322-DZ-Console\obj\Debug\CS322-DZ-Console.pdb
